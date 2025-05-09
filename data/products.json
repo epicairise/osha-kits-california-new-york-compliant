@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "ComplianceSigns OSHA State Kit – California",
+    "slug": "compliancesigns-california-kit",
+    "description": "A comprehensive safety kit tailored for California OSHA standards, with Cal/OSHA-specific signage, IIPP templates, and SDS documentation.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/compliancesigns-california-kit.jpg",
+    "target_audience_match": "Perfect for California business owners who worry about surprise Cal/OSHA inspections and just want to be audit-ready.",
+    "price": "From $149",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "NY Safety First OSHA Kit",
+    "slug": "ny-safetyfirst-kit",
+    "description": "Built for New York businesses, this OSHA kit includes required labor law posters, bilingual emergency instructions, and PPE supplies.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/ny-safetyfirst-kit.jpg",
+    "target_audience_match": "Ideal for New York employers stressed about staying compliant while keeping multilingual crews safe.",
+    "price": "From $129",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Nationwide OSHA Plus Kit",
+    "slug": "nationwide-osha-plus",
+    "description": "Covers strict regulations in CA, NY, WA and more—perfect for franchises or multi-site teams who need one kit that checks all boxes.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nationwide-osha-plus.jpg",
+    "target_audience_match": "Best for ops managers juggling multiple states and tired of tracking separate compliance rules.",
+    "price": "From $199",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "J.J. Keller California IIPP Kit",
+    "slug": "jjkeller-california-iipp",
+    "description": "Focused on Cal/OSHA’s Injury and Illness Prevention Program, this kit simplifies compliance with editable templates and guides.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jjkeller-california-iipp.jpg",
+    "target_audience_match": "Perfect for California small businesses overwhelmed by IIPP paperwork but can’t afford a compliance consultant.",
+    "price": "From $89",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "SafeWork State-Specific OSHA Kit Bundle",
+    "slug": "safework-state-bundle",
+    "description": "A customizable bundle with OSHA-compliant materials tailored by state—ideal for rotating job sites across CA, NY, and WA.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safework-bundle.jpg",
+    "target_audience_match": "Great for contractors or HR leads managing shifting crews in strict-regulation states.",
+    "price": "From $249",
+    "data-link": "pending"
+  }
+]
