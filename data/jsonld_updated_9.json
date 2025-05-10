@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "name": "OSHA Compliance Kits Tailored for California, New York, and Strict States",
+      "url": "https://dir.querygap.com/osha-kits-california-new-york-compliant/",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ComplianceSigns OSHA State Kit \u2013 California",
+          "url": "https://dir.querygap.com/osha-kits-california-new-york-compliant/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/compliancesigns-california-kit.jpg",
+          "description": "A comprehensive safety kit tailored for California OSHA standards, with Cal/OSHA-specific signage, SDS binders, and IIPP documentation templates.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "NY Safety First OSHA Kit",
+          "url": "https://dir.querygap.com/osha-kits-california-new-york-compliant/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/ny-safetyfirst-kit.jpg",
+          "description": "Designed for New York employers, this kit includes state-mandated labor law posters, bilingual safety instructions, and PPE essentials.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nationwide OSHA Plus Kit",
+          "url": "https://dir.querygap.com/osha-kits-california-new-york-compliant/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nationwide-osha-plus.jpg",
+          "description": "A multi-state OSHA kit that checks the boxes for tough regulators in CA, NY, WA, and more with inclusive gear and forms.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "J.J. Keller California IIPP Kit",
+          "url": "https://dir.querygap.com/osha-kits-california-new-york-compliant/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jjkeller-california-iipp.jpg",
+          "description": "Built specifically for Cal/OSHA\u2019s Injury and Illness Prevention Program (IIPP), this kit simplifies compliance with templates and guides.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SafeWork State-Specific OSHA Kit Bundle",
+          "url": "https://dir.querygap.com/osha-kits-california-new-york-compliant/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safework-bundle.jpg",
+          "description": "Bundle OSHA kits for CA, NY, and WA into one set\u2014regionally customized with posters, training tools, and first aid basics.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do California and New York have different OSHA rules than federal standards?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes \u2014 states like California and New York operate their own OSHA-approved plans with stricter rules and reporting requirements than the federal OSHA baseline."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should an OSHA kit for California include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A California-specific OSHA kit should include Cal/OSHA-compliant signage, an Injury and Illness Prevention Program (IIPP), safety data sheets, and appropriate first aid supplies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use one kit for multiple states?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only if the kit is multi-state certified. Otherwise, it's best to get kits tailored to each state\u2019s unique OSHA plan to avoid fines or violations."
+          }
+        }
+      ]
+    }
+  ]
+}
